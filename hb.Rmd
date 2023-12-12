@@ -1,0 +1,62 @@
+---
+title: "Agreement between SpHb and Coulter Hb"
+
+author:
+  - name: Idris Chikophe 
+    url: https://example.com/norajones
+    affiliation: Aga Khan University Hospital
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+journal: 
+  title: "Kenya Journal of Anesthesiology and Critical Care Medicine"
+  issn: 2490-1752
+  publisher: Xtreme Gradient Press
+volume: 10
+issue: 4
+doi: "10.23915/distill.00010"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+### Background
+
+Critical care relies heavily on accurate and timely monitoring of a patient's hemoglobin (Hb) levels to guide treatment decisions. Point of care hemoglobin (SpHb) measurement devices have gained popularity due to their non-invasive nature and ability to provide real-time Hb values, potentially reducing the need for frequent blood draws. However, the accuracy and agreement of SpHb measurements with traditional Coulter Hb measurements remain subjects of concern and investigation.
+
+### Objective
+
+The objective of this study is to assess and establish the agreement between SpHb measurements and Coulter Hb measurements in critically ill patients.
+
+### Methodology
+
+#### Study Design
+
+This was a prospective observational study conducted in the intensive care unit (ICU) of Bigsby Hospital over a period of 12 months.
+
+#### Participants
+
+A total of 200 critically ill adult patients were enrolled in the study. Patients requiring continuous Hb monitoring as part of their clinical management were recruited.
+
+#### Measurements
+
+SpHb measurements were obtained using Pront7 co-oximeter, while Coulter Hb measurements were performed simultaneously using standard laboratory methods.
+
+#### Statistical Analysis
+
+Bland-Altman analysis was used to assess the agreement between SpHb and Coulter Hb measurements. This included calculation of bias, limits of agreement, and generation of Bland-Altman plots.
+
+
+
+
+
+
+

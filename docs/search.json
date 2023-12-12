@@ -6,14 +6,41 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-12-12T17:36:56+03:00"
+      "last_modified": "2023-12-12T21:15:49+03:00"
+    },
+    {
+      "path": "agreement.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-12-12T21:15:50+03:00"
+    },
+    {
+      "path": "hb.html",
+      "title": "Agreement between SpHb and Coulter Hb",
+      "author": [
+        {
+          "name": "Idris Chikophe",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\nContents\nAbstract\nBackground\nObjective\nMethodology\n\n\nAbstract\nBackground\nCritical care relies heavily on accurate and timely monitoring of a patient’s hemoglobin (Hb) levels to guide treatment decisions. Point of care hemoglobin (SpHb) measurement devices have gained popularity due to their non-invasive nature and ability to provide real-time Hb values, potentially reducing the need for frequent blood draws. However, the accuracy and agreement of SpHb measurements with traditional Coulter Hb measurements remain subjects of concern and investigation.\nObjective\nThe objective of this study is to assess and establish the agreement between SpHb measurements and Coulter Hb measurements in critically ill patients.\nMethodology\nStudy Design\nThis was a prospective observational study conducted in the intensive care unit (ICU) of Bigsby Hospital over a period of 12 months.\nParticipants\nA total of 200 critically ill adult patients were enrolled in the study. Patients requiring continuous Hb monitoring as part of their clinical management were recruited.\nMeasurements\nSpHb measurements were obtained using Pront7 co-oximeter, while Coulter Hb measurements were performed simultaneously using standard laboratory methods.\nStatistical Analysis\nBland-Altman analysis was used to assess the agreement between SpHb and Coulter Hb measurements. This included calculation of bias, limits of agreement, and generation of Bland-Altman plots.\n\n\n\n",
+      "last_modified": "2023-12-12T21:15:50+03:00"
     },
     {
       "path": "index.html",
       "title": "Kenya Journal of Anesthesiology and Critical Care Medicine",
       "author": [],
-      "contents": "\n\n          \n          \n          KJACCM\n          \n          \n          Home\n          \n          \n          Author Center\n           \n          ▾\n          \n          \n          Why KJACCM?\n          Editorial Guidelines\n          \n          \n          Current Issue\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            This is a peer reviewed academic journal geared towards\n            nurturing the upcoming scientist with a focus on\n            Anesthesiology and Critical Care Medicicne. It is hosted by\n            the Kenya Society of Anesthesiologists (KSA) and Critical\n            Care Society of Kenya (CCSK).\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              This is a peer reviewed academic journal geared towards\n              nurturing the upcoming scientist with a focus on\n              Anesthesiology and Critical Care Medicicne. It is hosted\n              by the Kenya Society of Anesthesiologists (KSA) and\n              Critical Care Society of Kenya (CCSK).\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-12-12T17:37:01+03:00"
+      "contents": "\n\n          \n          \n          KJACCM\n          \n          \n          Home\n          \n          \n          Author Center\n           \n          ▾\n          \n          \n          Why KJACCM?\n          Editorial Guidelines\n          \n          \n          \n          \n          Publications\n           \n          ▾\n          \n          \n          Agreement between SpHb and Coulter Hb\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            This is a peer reviewed academic journal geared towards\n            nurturing the upcoming scientist with a focus on\n            Anesthesiology and Critical Care Medicicne. It is hosted by\n            the Kenya Society of Anesthesiologists (KSA) and Critical\n            Care Society of Kenya (CCSK).\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              This is a peer reviewed academic journal geared towards\n              nurturing the upcoming scientist with a focus on\n              Anesthesiology and Critical Care Medicicne. It is hosted\n              by the Kenya Society of Anesthesiologists (KSA) and\n              Critical Care Society of Kenya (CCSK).\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-12-12T21:15:56+03:00"
     },
     {
       "path": "why_kjaccm.html",
@@ -26,7 +53,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\n\nContents\nBackgroung\nBenefit from Peer Reviewed Medical Publishing\nFocus on Reproduceable Research\n\n\nBackgroung\nSince 2015, KJACCM has worked with authors to publish locally generated evidence. This has been used to advance science in Anesthesiology and Critical Care Medicine.\nBenefit from Peer Reviewed Medical Publishing\nWith a commitment to publishing high quality research, KJACCM has assembled one of the most trusted and authoritative journals in Anesthesiology and Critical Care Medicine both for experienced practitioners and trainees. Our unbiased peer-review editorial process sets the standard for medical publishing. Your manuscript will benefit from careful attention of experienced editors, reviewers, statistical and data science experts, graphics and production personnel.\nFocus on Reproduceable Research\nApart from publishing processed articles, domain practitioners and scientits are keen on publishing the collected data too. This may be of benefit to the upcoming scientist on how well one can collect, clean and store data. Additionally, the code and statistical methods that were used to arrive at specific conclusions will be published.\n\n\n\n",
-      "last_modified": "2023-12-12T17:37:02+03:00"
+      "last_modified": "2023-12-12T21:15:56+03:00"
     }
   ],
   "collections": []

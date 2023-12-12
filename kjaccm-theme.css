@@ -16,13 +16,13 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      30px;
   --body-size:       18px;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     rgba(60,179,113,0.8);
+  --title-color:     rgba(0,0,0,0.8);
   --header-color:    rgba(0,0,0,0.8);
   --body-color:      rgba(0,0,0,0.8);
   --aside-color:     rgba(0,0,0,0.8);
@@ -76,7 +76,4 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
-h2 {
-  color: #028A0F;
-  font-size: 36px;
-}
+

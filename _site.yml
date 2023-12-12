@@ -14,6 +14,8 @@ navbar:
           href: why_kjaccm.html
         - text: "Editorial Guidelines"
           href: editorial_guidelines.html
-    - text: "Current Issue"
-      href: current_issue.html
+    - text: "Publications"
+      menu:
+        - text: "Agreement between SpHb and Coulter Hb"
+          href: hb.html
 output: distill::distill_article
