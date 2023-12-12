@@ -24,9 +24,14 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, message=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(readr)
+library(gtsummary)
+library(ggstatsplot)
 ```
+
 
 # Abstract
 
@@ -47,3 +52,33 @@ Bland-Altman analysis was used to establish the bias, limits of agreement, and g
 ## Conclusion
 
 The bias was 0.1 g/dL, limits of agreement were +2 or -2. This was in keeping with the American College of Pathologists.
+
+
+## Results
+
+```{r, include=FALSE}
+set.seed(111)
+n = 150
+sphb <- round(runif(n,8,15),1)
+coulter <- round(runif(n,9,17),1)
+gender <- sample(c("F","M"), size = n, prob = c(0.35,0.65), replace = T)
+data = tibble(gender,sphb,coulter)
+head(data)
+```
+
+### Table 1: Summary Statistics
+
+```{r, echo=FALSE}
+t1 <- data %>% 
+  tbl_summary(by=gender) %>% 
+  add_overall() %>% 
+  add_p()
+t1
+```
+### Visualization
+
+```{r, echo=FALSE}
+gathered <- data %>% gather(key="Method", value = "Hb", c(2:3))
+ggbetweenstats(data = gathered, x="Method", y="Hb")
+```
+

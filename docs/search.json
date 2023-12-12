@@ -6,21 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-12-12T23:23:30+03:00"
+      "last_modified": "2023-12-13T00:01:06+03:00"
     },
     {
       "path": "index.html",
       "title": "Kenya Journal of Anesthesiology and Critical Care Medicine",
       "author": [],
       "contents": "\n\n          \n          \n          KJACCM\n          \n          \n          Home\n          \n          \n          Author Center\n           \n          ▾\n          \n          \n          Why KJACCM?\n          Editorial Guidelines\n          \n          \n          \n          \n          Publications\n           \n          ▾\n          \n          \n          Volume Eleven\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            This is a peer reviewed academic journal geared towards\n            nurturing the upcoming scientist with a focus on\n            Anesthesiology and Critical Care Medicicne. It is hosted by\n            the Kenya Society of Anesthesiologists (KSA) and Critical\n            Care Society of Kenya (CCSK).\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              This is a peer reviewed academic journal geared towards\n              nurturing the upcoming scientist with a focus on\n              Anesthesiology and Critical Care Medicicne. It is hosted\n              by the Kenya Society of Anesthesiologists (KSA) and\n              Critical Care Society of Kenya (CCSK).\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-12-12T23:23:36+03:00"
+      "last_modified": "2023-12-13T00:01:11+03:00"
     },
     {
       "path": "volume_eleven.html",
       "title": "Volume Eleven",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-12-12T23:23:36+03:00"
+      "last_modified": "2023-12-13T00:01:12+03:00"
     },
     {
       "path": "why_kjaccm.html",
@@ -33,7 +33,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\n\nContents\nBackground\nBenefit from Peer Reviewed Medical Publishing\nFocus on Reproduceable Research\n\n\nBackground\nSince 2015, KJACCM has worked with authors to publish locally generated evidence. This has been used to advance science in Anesthesiology and Critical Care Medicine.\nBenefit from Peer Reviewed Medical Publishing\nWith a commitment to publishing high quality research, KJACCM has assembled one of the most trusted and authoritative journals in Anesthesiology and Critical Care Medicine both for experienced practitioners and trainees. Our unbiased peer-review editorial process sets the standard for medical publishing. Your manuscript will benefit from careful attention of experienced editors, reviewers, statistical and data science experts, graphics and production personnel.\nFocus on Reproduceable Research\nApart from publishing processed articles, domain practitioners and scientits are keen on publishing the collected data too. This may be of benefit to the upcoming scientist on how well one can collect, clean and store data. Additionally, the code and statistical methods that were used to arrive at specific conclusions will be published.\n\n\n\n",
-      "last_modified": "2023-12-12T23:23:37+03:00"
+      "last_modified": "2023-12-13T00:01:12+03:00"
     }
   ],
   "collections": ["eleven/eleven.json"]
