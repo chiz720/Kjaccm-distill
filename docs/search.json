@@ -1,19 +1,11 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2023-12-12T12:55:26+03:00"
-    },
-    {
       "path": "index.html",
       "title": "Kenya Journal of Anesthesiology and Critical Care Medicine",
       "author": [],
       "contents": "\n\n          \n          \n          KJACCM\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                    \n                      \n                         LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            This is a peer reviewed academic journal geared towards\n            nurturing the upcoming scientist with a focus on\n            Anesthesiology and Critical Care Medicicne. It is hosted by\n            the Kenya Society of Anesthesiologists (KSA) and Critical\n            Care Society of Kenya (CCSK).\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Kenya Journal of Anesthesiology and Critical Care\nMedicine\n            \n            \n              \n                \n                                    \n                    \n                       LinkedIn\n                    \n                  \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              This is a peer reviewed academic journal geared towards\n              nurturing the upcoming scientist with a focus on\n              Anesthesiology and Critical Care Medicicne. It is hosted\n              by the Kenya Society of Anesthesiologists (KSA) and\n              Critical Care Society of Kenya (CCSK).\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-12-12T13:19:07+03:00"
+      "last_modified": "2023-12-12T15:38:26+03:00"
     }
   ],
   "collections": []

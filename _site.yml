@@ -3,6 +3,7 @@ title: "KJACCM"
 description: |
   KJACCM
 output_dir: "docs"
+theme: kjaccm-theme.css
 navbar:
   right:
     - text: "Home"

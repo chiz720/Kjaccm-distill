@@ -15,6 +15,6 @@ output:
 site: distill::distill_website
 ---
  
-# Welcome!
+## Welcome!
 
 This is a peer reviewed academic journal geared towards nurturing the upcoming scientist with a focus on Anesthesiology and Critical Care Medicicne. It is hosted by the Kenya Society of Anesthesiologists (KSA) and Critical Care Society of Kenya (CCSK).
