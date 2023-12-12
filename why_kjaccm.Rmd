@@ -1,0 +1,31 @@
+---
+title: "Why KJACCM?"
+author:
+  - name: Idris Chikophe
+    email: idris6664@gmail.come
+    affiliation: KJACCM Editorial Office
+    #affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Backgroung 
+
+Since 2015, KJACCM has worked with authors to publish locally generated evidence. This has been used to advance science in Anesthesiology and Critical Care Medicine.
+
+## Benefit from Peer Reviewed Medical Publishing
+
+With a commitment to publishing high quality research, KJACCM has assembled one of the most trusted and authoritative journals in Anesthesiology and Critical Care Medicine both for experienced practitioners and trainees. Our unbiased peer-review editorial process sets the standard for medical publishing. Your manuscript will benefit from careful attention of experienced editors, reviewers, statistical and data science experts, graphics and production personnel.
+
+## Focus on Reproduceable Research
+
+Apart from publishing processed articles, domain practitioners and scientits are keen on publishing the collected data too. This may be of benefit to the upcoming scientist on how well one can collect, clean and store data. Additionally, the code and statistical methods that were used to arrive at specific conclusions will be published. 
+

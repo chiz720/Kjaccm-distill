@@ -8,6 +8,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Author Center"
+      menu:
+        - text: "Why KJACCM?"
+          href: why_kjaccm.html
+        - text: "Editorial Guidelines"
+          href: editorial_guidelines.html
+    - text: "Current Issue"
+      href: current_issue.html
 output: distill::distill_article
