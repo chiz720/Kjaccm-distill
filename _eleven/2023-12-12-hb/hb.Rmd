@@ -1,0 +1,49 @@
+---
+title: "Agreement between Co-oximetry and Cynohemoglobinometry in Hemogobin Measurements"
+description: |
+  
+author:
+  - name: Idris Chikophe
+    affiliation: Aga Kahn University Hospital
+journal: 
+  title: "Journal of Anesthesia and Critical Care"
+  issn: 2490-1752
+  publisher: Xtreme Gradient Press
+volume: 10
+issue: 4
+doi: "10.23915/distill.00010"
+slug: jones2018distill
+    
+date: 2023-12-12
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+## Introduction
+
+Critical care medicine relies heavily on accurate and timely monitoring of a patient's hemoglobin (Hb) levels to guide treatment decisions. Point of care hemoglobin (SpHb) measurement devices have gained popularity due to their non-invasive nature and ability to provide real-time Hb values, potentially reducing the need for frequent blood draws. However, the agreement of SpHb measurements with traditional Coulter Hb measurements remain subjects of concern and investigation.
+
+## Objective
+
+The primary objective of this study was to assess and establish the agreement between SpHb measurements and Coulter Hb measurements in critically ill patients.
+
+## Materials and Methods
+
+This was a cross-sectional observational study conducted in the intensive care unit (ICU) of BigsBy Hospital over a period of 12 months. A total of 200 critically ill adult patients requiring continuous Hb monitoring were be enrolled in the study. SpHb and Coulter Hb measurements were performed simultaneously using standard laboratory methods. 
+
+Bland-Altman analysis was used to establish the bias, limits of agreement, and generation of Bland-Altman plots.
+
+## Conclusion
+
+The bias was 0.1 g/dL, limits of agreement were +2 or -2. This was in keeping with the American College of Pathologists.

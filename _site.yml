@@ -16,6 +16,6 @@ navbar:
           href: editorial_guidelines.html
     - text: "Publications"
       menu:
-        - text: "Agreement between SpHb and Coulter Hb"
-          href: hb.html
+        - text: "Volume Eleven"
+          href: volume_eleven.html
 output: distill::distill_article
