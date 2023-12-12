@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Backgroung 
+# Background 
 
 Since 2015, KJACCM has worked with authors to publish locally generated evidence. This has been used to advance science in Anesthesiology and Critical Care Medicine.
 
